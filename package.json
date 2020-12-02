@@ -1,0 +1,11 @@
+{
+  "name": "ztj-wbpck",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Ihavedreams/ztj-wbpck.git",
+  "author": "1341568421@qq.com",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.9.0"
+  }
+}
